@@ -5,6 +5,7 @@ public class GitSample1 {
 		// TODO 自動生成されたメソッド・スタブ
 System.out.println("lucky");
 System.out.println("wang");
+System.out.println("wang-20230503");
 	}
 
 }

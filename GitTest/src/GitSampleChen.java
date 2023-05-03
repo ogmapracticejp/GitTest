@@ -6,7 +6,7 @@ public class GitSampleChen {
 System.out.println("lucky5");
 System.out.println("wang5");
 
-System.out.println("wang6");
+System.out.println("wang7");
 	}
 
 }

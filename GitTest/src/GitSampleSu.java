@@ -9,6 +9,7 @@ System.out.println("SU");
 System.out.println("wang3");
 System.out.println("SU");
 System.out.println("wang3");
+System.out.println("wang3");
 System.out.println("SU");
 }
 

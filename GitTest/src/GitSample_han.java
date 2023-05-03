@@ -8,6 +8,20 @@ System.out.println("wang3");
 
 System.out.println("lucky666");
 System.out.println("wang1");
+System.out.println("lucky3");
+System.out.println("wang3");
+
+System.out.println("lucky666");
+System.out.println("wang1");System.out.println("lucky3");
+System.out.println("wang3");
+
+System.out.println("lucky666");
+System.out.println("wang1");
+System.out.println("wang1");
+System.out.println("wang1");
+
+
+
 	}
 
 }

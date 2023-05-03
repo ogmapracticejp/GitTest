@@ -7,6 +7,6 @@ System.out.println("lucky3");
 System.out.println("wang3");
 System.out.println("wang3");
 System.out.println("wang3");   
-	}
+	}   
 
 }
